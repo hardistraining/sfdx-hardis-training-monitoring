@@ -4017,10 +4017,6 @@
         <tab>standard-report</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-salesforcepages</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <userLicense>Identity</userLicense>
     <userPermissions>
         <enabled>true</enabled>
