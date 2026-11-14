@@ -9,7 +9,7 @@ Contains the entire list of metadatas that are present in the monitored org (not
 
 <div id="jstree-container"></div>
 
-Metadatas: 1994
+Metadatas: 1995
 
 <details><summary>ApexClass (10)</summary>
 
@@ -206,7 +206,7 @@ Metadatas: 1994
 
 </details>
 
-<details><summary>CustomObject (399)</summary>
+<details><summary>CustomObject (400)</summary>
 
 
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">Account</a><br/>
@@ -328,6 +328,7 @@ Metadatas: 1994
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataGuidance</a><br/>
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataGuidanceStep</a><br/>
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataGuidanceStepGroup</a><br/>
+  • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataHarmonizedUserFdbk</a><br/>
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataKitDeploymentLog</a><br/>
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataKnowledgeRsrchRpt</a><br/>
   • <a href="https://orgfarm-46e8f3e0ad-dev-ed.develop.my.salesforce.com/lightning/setup/ObjectManager//Details/view" target="_blank">DataKnowledgeRsrchTmpl</a><br/>
